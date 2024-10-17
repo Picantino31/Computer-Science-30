@@ -19,8 +19,9 @@ public class As3_ParallelSort {
             System.out.println("Press 1 to sort by Fast Food Chain");
             System.out.println("Press 2 to sort by Calories");
             System.out.println("Press 3 to filter by Fast Food Chain");
-               System.out.println("Press 4 to search by Food");
-            System.out.println("Press 5 to End");
+            System.out.println("Press 4 to search by Food");
+            System.out.println("Press 5 to check items above X calories");
+            System.out.println("Press 6 to End");
             int choice = input.nextInt();
             input.nextLine();
 
@@ -44,6 +45,7 @@ public class As3_ParallelSort {
 
             }
             if (choice == 3) {
+                System.out.println("Enter the restaurant you want to filter by");
                 String filter = input.nextLine();
                 for (int i = 0; i < allFastFoodChain.length; i++) {
                     if(filter.equalsIgnoreCase(allFastFoodChain[i])){
@@ -53,12 +55,26 @@ public class As3_ParallelSort {
 
             }
             if (choice == 4) {
+                System.out.println("Enter the food you want to search by");
                 String search = input.nextLine().toLowerCase();
                 for (int i = 0; i < allFood.length; i++) {
                     if(allFood[i].toLowerCase().contains(search)){
                         System.out.println(allFood[i] + " from " + '"' +  allFastFoodChain[i] + '"' + " with " + allCalories[i] + " calories and " + allProtein[i] + " protein." );
                     }
                 }
+            }
+            if(choice == 5){
+                System.out.println("items above how many calories?");
+                int calories = input.nextInt();
+                input.nextLine();
+                for (int i = 0; i <allFastFoodChain.length ; i++) {
+                    if(calories <= allCalories[i]){
+                        System.out.println(allFood[i] + " has " + allCalories[i]);
+                    }
+
+                }
+
+
             }
             if (choice == 5){
                 break;
