@@ -1,0 +1,460 @@
+Kfc Biscuit
+McDonalds Bacon Egg & Cheese Biscuit
+McDonalds Sausage Biscuit
+McDonalds Sausage Biscuit With Egg
+McDonalds Southern Style Chicken Biscuit
+Bacon On Biscuit
+Biscuit With Crispy Chicken Fillet
+Biscuit With Egg And Bacon
+Biscuit With Egg And Ham
+Biscuit With Egg Cheese And Bacon
+Biscuit With Gravy
+Biscuit With Ham
+Biscuit With Sausage
+Egg And Cheese On Biscuit
+Egg And Steak On Biscuit
+Egg Cheese And Ham On Biscuit
+Fast Food Biscuit
+Fast Foods Biscuit With Egg And Sausage
+Steak Sandwich Plain On Biscuit
+Popeyes Biscuit
+Burger King French Toast Sticks
+Breadstick Soft Prepared With Garlic And Parmesan Cheese
+Breadsticks Soft From Fast Food / Restaurant
+French Toast Gluten Free
+French Toast Gluten Free From Frozen
+French Toast Nfs
+French Toast Plain
+French Toast Plain From Fast Food / Restaurant
+French Toast Plain From Frozen
+French Toast Plain Reduced Fat
+French Toast Sticks
+French Toast Sticks Nfs
+French Toast Sticks Plain From Fast Food / Restaurant
+French Toast Sticks Plain From Frozen
+French Toast Sticks Whole Grain
+French Toast Whole Grain
+French Toast Whole Grain From Fast Food / Restaurant
+French Toast Whole Grain From Frozen
+French Toast Whole Grain Reduced Fat
+Fried Bread Puerto Rican Style
+Garlic Bread From Fast Food / Restaurant
+Pizza Hut Breadstick Parmesan Garlic
+French Toast From School Nfs
+French Toast Sticks From School Nfs
+McDonalds Egg Mcmuffin
+McDonalds Sausage Egg & Cheese Mcgriddles
+McDonalds Sausage Mcgriddles
+Bagel With Breakfast Steak Egg Cheese And Condiments
+Bagel With Egg Sausage Patty Cheese And Condiments
+Egg Cheese And Bacon On Bagel
+Egg Cheese And Ham On Bagel
+Egg Cheese And Sausage On Bun
+Egg Cheese Ham And Bacon On Bun
+Egg Extra Cheese And Extra Sausage On Bun
+Egg Cheese And Beef On English Muffin
+English Muffin With Cheese And Sausage
+English Muffin With Egg Cheese And Canadian Bacon
+English Muffin With Egg Cheese And Sausage
+Ham And Cheese On English Muffin
+Burger King Cheeseburger
+Burger King Double Whopper No Cheese
+Burger King Double Whopper With Cheese
+Burger King Hamburger
+Burger King Whopper No Cheese
+Burger King Whopper With Cheese
+Cheeseburger 1 Small Patty With Condiments On Bun From Fast Food / Restaurant (Burger King Whopper Jr. With Cheese)
+Double Bacon Cheeseburger 2 Small Patties With Condiments On Bun From Fast Food / Restaurant (Burger King Bacon Double Cheeseburger)
+Hamburger 1 Small Patty With Condiments On Bun From Fast Food / Restaurant (Burger King Whopper Jr.)
+McDonalds Big Mac
+McDonalds Big Mac (Without Big Mac Sauce)
+McDonalds Cheeseburger
+McDonalds Double Cheeseburger
+McDonalds Double Quarter Pounder With Cheese
+McDonalds Filet-O-Fish
+McDonalds Filet-O-Fish (Without Tartar Sauce)
+McDonalds Hamburger
+McDonalds Quarter Pounder
+McDonalds Quarter Pounder With Cheese
+Cheeseburger 1 Miniature Patty On Miniature Bun From School
+Cheeseburger On Bun From School
+Hamburger 1 Miniature Patty On Miniature Bun From School
+Hamburger On Bun From School
+Bacon Cheeseburger 1 Small Patty With Condiments On Bun From Fast Food / Restaurant (Wendy's Jr. Bacon Cheeseburger)
+Cheeseburger 1 Small Patty With Condiments On Bun From Fast Food / Restaurant (Wendy's Jr. Cheeseburger Deluxe)
+Double Bacon Cheeseburger 2 Medium Patties With Condiments On Bun From Fast Food / Restaurant (Wendy's Baconator)
+Wendys Classic Double With Cheese
+Wendys Classic Single Hamburger No Cheese
+Wendys Classic Single Hamburger With Cheese
+Wendys Daves Hot N Juicy 1/4 Lb Single
+Wendys Jr. Hamburger With Cheese
+Wendys Jr. Hamburger Without Cheese
+McDonalds Sausage Burrito
+Breakfast Burrito With Egg Cheese And Sausage
+Burrito Taco Or Quesadilla With Egg
+Burrito Taco Or Quesadilla With Egg And Breakfast Meat
+Burrito Taco Or Quesadilla With Egg And Potato
+Burrito Taco Or Quesadilla With Egg Beans And Breakfast Meat
+Burrito Taco Or Quesadilla With Egg Potato And Breakfast Meat
+Burrito Taco Or Quesadilla With Egg Potato And Breakfast Meat From Fast Food
+Burrito With Beans
+Burrito With Beans And Beef
+Burrito With Beans And Cheese
+Burrito With Beans Cheese And Beef
+Crispy Chicken In Tortilla With Lettuce Cheese And Ranch Sauce
+Taco With Beef Cheese And Lettuce Hard Shell
+Taco With Beef Cheese And Lettuce Soft
+Taco With Chicken Lettuce And Cheese Soft
+Taquito Or Flauta With Egg
+Taquito Or Flauta With Egg And Breakfast Meat
+Quesadilla With Chicken
+Taco Bell Bean Burrito
+Taco Bell Burrito Supreme With Beef
+Taco Bell Burrito Supreme With Chicken
+Taco Bell Burrito Supreme With Steak
+Taco Bell Original Taco With Beef Cheese And Lettuce
+Taco Bell Soft Taco With Beef Cheese And Lettuce
+Taco Bell Soft Taco With Chicken Cheese And Lettuce
+Taco Bell Soft Taco With Steak
+Restaurant Chinese Vegetable Chow Mein Without Meat Or Noodles
+Restaurant Chinese Shrimp And Vegetables
+Restaurant Chinese Chicken Chow Mein
+Restaurant Chinese Chicken And Vegetables
+Restaurant Chinese Beef And Vegetables
+Restaurant Chinese Vegetable Lo Mein Without Meat
+Restaurant Chinese Kung Pao Chicken
+Restaurant Chinese Fried Rice Without Meat
+Restaurant Chinese Egg Rolls Assorted
+Restaurant Chinese Sweet And Sour Chicken
+Restaurant Chinese Lemon Chicken
+Restaurant Chinese Orange Chicken
+Restaurant Chinese Sweet And Sour Pork
+Restaurant Chinese Sesame Chicken
+Restaurant Chinese General Tsos Chicken
+Rice Fried With Beef
+Rice Fried With Chicken
+Rice Fried With Pork
+Rice Fried With Shrimp
+Burger King Chicken Strips
+Chick-Fil-A Chick-N-Strips
+Kfc Crispy Chicken Strips
+Kfc Fried Chicken Breast
+Kfc Fried Chicken Extra Crispy Breast Meat Only Skin And Breading Removed
+Kfc Fried Chicken Extra Crispy Drumstick Meat And Skin With Breading
+Kfc Fried Chicken Extra Crispy Drumstick Meat Only Skin And Breading Removed
+Kfc Fried Chicken Extra Crispy Thigh Meat And Skin With Breading
+Kfc Fried Chicken Extra Crispy Thigh Meat Only Skin And Breading Removed
+Kfc Fried Chicken Extra Crispy Wing Meat And Skin With Breading
+Kfc Fried Chicken Extra Crispy Wing Meat Only Skin And Breading Removed
+Kfc Fried Chicken Original Recipe Breast Meat And Skin With Breading
+Kfc Fried Chicken Original Recipe Breast Meat Only Skin And Breading Removed
+Kfc Fried Chicken Original Recipe Drumstick Meat And Skin With Breading
+Kfc Fried Chicken Original Recipe Drumstick Meat Only Skin And Breading Removed
+Kfc Fried Chicken Original Recipe Thigh Meat And Skin With Breading
+Kfc Fried Chicken Original Recipe Thigh Meat Only Skin And Breading Removed
+Kfc Fried Chicken Original Recipe Wing Meat And Skin With Breading
+Kfc Fried Chicken Original Recipe Wing Meat Only Skin And Breading Removed
+Kfc Popcorn Chicken
+McDonalds Chicken Mcnuggets
+Popeyes Fried Chicken Mild Breast Meat And Skin With Breading
+Popeyes Fried Chicken Mild Breast Meat Only Skin And Breading Removed
+Popeyes Fried Chicken Mild Drumstick Meat And Skin With Breading
+Popeyes Fried Chicken Mild Drumstick Meat Only Skin And Breading Removed
+Popeyes Fried Chicken Mild Thigh Meat And Skin With Breading
+Popeyes Fried Chicken Mild Thigh Meat Only Skin And Breading Removed
+Popeyes Fried Chicken Mild Wing Meat And Skin With Breading
+Popeyes Fried Chicken Mild Wing Meat Only Skin And Breading Removed
+Popeyes Mild Chicken Strips Analyzed 2006
+Popeyes Spicy Chicken Strips Analyzed 2006
+School Lunch Chicken Nuggets Whole Grain Breaded
+School Lunch Chicken Patty Whole Grain Breaded
+Wendys Chicken Nuggets
+Burger King Hash Brown Rounds
+McDonalds Hash Brown
+Hush Puppies
+Onion Rings Breaded And Fried
+Potato French Fried In Vegetable Oil
+Potato French Fries From Fresh Baked
+Potato French Fries From Fresh Fried
+Potato French Fries From Frozen Fried
+Potato French Fries Nfs
+Potato French Fries Ns As To Fresh Or Frozen
+Potato French Fries With Cheese
+Potato French Fries With Cheese Fast Food / Restaurant
+Potato French Fries With Chili
+Potato French Fries With Chili And Cheese
+Potato French Fries With Chili And Cheese Fast Food / Restaurant
+Potato French Fries With Chili Fast Food / Restaurant
+Potato Hash Brown From Dry Mix
+Potato Hash Brown From Fast Food With Cheese
+Potato Hash Brown From Fresh
+Potato Hash Brown From Fresh With Cheese
+Potato Hash Brown From Restaurant With Cheese
+Potato Hash Brown Nfs
+Potato Hash Brown Ready-To-Heat
+Potato Hash Brown Ready-To-Heat With Cheese
+Potato Home Fries From Fresh
+Potato Home Fries From Restaurant / Fast Food
+Potato Home Fries Nfs
+Potato Home Fries Ready-To-Heat
+Potato Home Fries With Vegetables
+Potato Patty
+Potato Tots Fast Food / Restaurant
+Potato Tots From Fresh Fried Or Baked
+Potato Tots Frozen Baked
+Potato Tots Frozen Fried
+Potato Tots Frozen Ns As To Fried Or Baked
+Potato Tots Nfs
+Potatoes Hash Browns Round Pieces Or Patty
+Potato French Fries School
+Potato French Fries With Cheese School
+Potato Hash Brown From School Lunch
+Potato Tots School
+Wendys French Fries
+Frankfurter Or Hot Dog Sandwich Beef And Pork Plain On Multigrain Bread
+Frankfurter Or Hot Dog Sandwich Beef And Pork Plain On Wheat Bread
+Frankfurter Or Hot Dog Sandwich Beef And Pork Plain On White Bread
+Frankfurter Or Hot Dog Sandwich Beef Plain On Multigrain Bread
+Frankfurter Or Hot Dog Sandwich Beef Plain On Wheat Bread
+Frankfurter Or Hot Dog Sandwich Beef Plain On White Bread
+Frankfurter Or Hot Dog Sandwich Chicken And/or Turkey Plain On Multigrain Bread
+Frankfurter Or Hot Dog Sandwich Chicken And/or Turkey Plain On Wheat Bread
+Frankfurter Or Hot Dog Sandwich Chicken And/or Turkey Plain On White Bread
+Frankfurter Or Hot Dog Sandwich Fat Free Plain On Multigrain Bread
+Frankfurter Or Hot Dog Sandwich Fat Free Plain On Wheat Bread
+Frankfurter Or Hot Dog Sandwich Fat Free Plain On White Bread
+Frankfurter Or Hot Dog Sandwich Meat And Poultry Plain On Multigrain Bread
+Frankfurter Or Hot Dog Sandwich Meat And Poultry Plain On Wheat Bread
+Frankfurter Or Hot Dog Sandwich Meat And Poultry Plain On White Bread
+Frankfurter Or Hot Dog Sandwich Meatless On Bread With Meatless Chili
+Frankfurter Or Hot Dog Sandwich Meatless Plain On Bread
+Frankfurter Or Hot Dog Sandwich NFS Plain On Multigrain Bread
+Frankfurter Or Hot Dog Sandwich NFS Plain On Wheat Bread
+Frankfurter Or Hot Dog Sandwich NFS Plain On White Bread
+Frankfurter Or Hot Dog Sandwich Reduced Fat Or Light Plain On Multigrain Bread
+Frankfurter Or Hot Dog Sandwich Reduced Fat Or Light Plain On Wheat Bread
+Frankfurter Or Hot Dog Sandwich Reduced Fat Or Light Plain On White Bread
+Frankfurter Or Hot Dog Sandwich Reduced Fat Or Light Plain On Whole Grain White Bread
+Frankfurter Or Hot Dog Sandwich With Chili On Multigrain Bread
+Frankfurter Or Hot Dog Sandwich With Chili On Wheat Bread
+Frankfurter Or Hot Dog Sandwich With Chili On White Bread
+Frankfurter Or Hot Dog Sandwich With Meatless Chili On Multigrain Bread
+Frankfurter Or Hot Dog Sandwich With Meatless Chili On Wheat Bread
+Frankfurter Or Hot Dog Sandwich With Meatless Chili On White Bread
+McDonalds Hot Caramel Sundae
+McDonalds Hot Fudge Sundae
+McDonalds Mcflurry With M&Ms
+McDonalds Mcflurry With Oreo Cookies
+McDonalds Strawberry Sundae
+McDonalds Vanilla Reduced Fat Ice Cream Cone
+Blended Soft Serve Ice Cream With Cookies
+Sundae Caramel
+Sundae Hot Fudge
+Sundae Strawberry
+Vanilla Light Soft-Serve Ice Cream With Cone
+Ice Creams Vanilla Light
+Ice Creams Vanilla Rich
+Ice Creams Vanilla
+Ice Creams Vanilla Light Soft-Serve
+Ice Creams Chocolate Light
+Frozen Novelties Ice Cream Type Vanilla Ice Cream Light No Sugar Added Chocolate Coated
+Ice Creams French Vanilla Soft-Serve
+Frozen Novelties Ice Cream Type Chocolate Or Caramel Covered With Nuts
+Frozen Novelties Ice Type Pop With Low Calorie Sweetener
+Ice Creams Chocolate Rich
+Ice Creams Chocolate
+Ice Creams Strawberry
+Wendys Frosty Dairy Dessert
+Restaurant Latino Black Bean Soup
+Restaurant Latino Arroz Con Leche (Rice Pudding)
+Restaurant Latino Tamale Pork
+Restaurant Latino Tamale Corn
+Restaurant Latino Arepa (Unleavened Cornmeal Bread)
+Restaurant Latino Pupusas Con Frijoles (Pupusas Bean)
+Restaurant Latino Pupusas Del Cerdo (Pupusas Pork)
+Restaurant Latino Pupusas Con Queso (Pupusas Cheese)
+Restaurant Latino Empanadas Beef Prepared
+Nachos With Cheese
+Nachos With Cheese Beans Ground Beef And Tomatoes
+Taco Bell Nachos
+Taco Bell Nachos Supreme
+McDonalds Big Breakfast
+McDonalds Deluxe Breakfast With Syrup And Margarine
+McDonalds Fruit N Yogurt Parfait
+McDonalds Fruit N Yogurt Parfait (Without Granola)
+McDonalds Hotcakes (Plain)
+McDonalds Hotcakes And Sausage
+McDonalds Ranch Snack Wrap Crispy
+McDonalds Ranch Snack Wrap Grilled
+Egg Scrambled
+Bibimbap Korean
+Bruschetta
+Dukboki Or Tteokbokki Korean
+Hors D'oeuvres With Spread
+Miniature Cinnamon Rolls
+Pig In A Blanket Frankfurter Or Hot Dog Wrapped In Dough
+Potato Mashed
+Shrimp Breaded And Fried
+Strawberry Banana Smoothie Made With Ice And Low-Fat Yogurt
+McDonalds Pancakes
+Blintz Cheese-Filled
+Blintz Fruit-Filled
+Chinese Pancake
+Crepe Chocolate Filled
+Crepe Fruit Filled
+Crepe Nfs
+Crepe Ns As To Filling
+Crepe Plain
+Dosa (Indian) Plain
+Pancakes Buckwheat
+Pancakes Cornmeal
+Pancakes Nfs
+Pancakes Plain
+Pancakes Plain From Fast Food / Restaurant
+Pancakes Plain Reduced Fat From Fozen
+Pancakes Pumpkin
+Pancakes Whole Grain
+Pancakes Whole Grain And Nuts From Fast Food / Restaurant
+Pancakes Whole Grain From Fast Food / Restaurant
+Pancakes Whole Grain From Frozen
+Pancakes Whole Grain Reduced Fat
+Pancakes Whole Grain Reduced Fat From Frozen
+Pancakes With Chocolate
+Pancakes With Chocolate From Fast Food / Restaurant
+Pancakes With Chocolate From Frozen
+Pancakes With Fruit
+Pancakes With Fruit From Fast Food / Restaurant
+Pancakes With Fruit From Frozen
+Pancakes From School Nfs
+Digiorno Pizza Cheese Topping Cheese Stuffed Crust Frozen Baked
+Digiorno Pizza Cheese Topping Rising Crust Frozen Baked
+Digiorno Pizza Cheese Topping Thin Crispy Crust Frozen Baked
+Digiorno Pizza Pepperoni Topping Cheese Stuffed Crust Frozen Baked
+Digiorno Pizza Pepperoni Topping Rising Crust Frozen Baked
+Digiorno Pizza Pepperoni Topping Thin Crispy Crust Frozen Baked
+Digiorno Pizza Supreme Topping Rising Crust Frozen Baked
+Digiorno Pizza Supreme Topping Thin Crispy Crust Frozen Baked
+Dominos 14 Inch Cheese Pizza Classic Hand-Tossed Crust
+Dominos 14 Inch Cheese Pizza Crunchy Thin Crust
+Dominos 14 Inch Cheese Pizza Ultimate Deep Dish Crust
+Dominos 14 Inch Extravaganzza Feast Pizza Classic Hand-Tossed Crust
+Dominos 14 Inch Pepperoni Pizza Classic Hand-Tossed Crust
+Dominos 14 Inch Pepperoni Pizza Crunchy Thin Crust
+Dominos 14 Inch Pepperoni Pizza Ultimate Deep Dish Crust
+Dominos 14 Inch Sausage Pizza Classic Hand-Tossed Crust
+Dominos 14 Inch Sausage Pizza Crunchy Thin Crust
+Dominos 14 Inch Sausage Pizza Ultimate Deep Dish Crust
+Little Caesars 14 Inch Cheese Pizza Large Deep Dish Crust
+Little Caesars 14 Inch Cheese Pizza Thin Crust
+Little Caesars 14 Inch Original Round Cheese Pizza Regular Crust
+Little Caesars 14 Inch Original Round Meat And Vegetable Pizza Regular Crust
+Little Caesars 14 Inch Original Round Pepperoni Pizza Regular Crust
+Little Caesars 14 Inch Pepperoni Pizza Large Deep Dish Crust
+Papa Johns 14 Inch Cheese Pizza Original Crust
+Papa Johns 14 Inch Cheese Pizza Thin Crust
+Papa Johns 14 Inch Pepperoni Pizza Original Crust
+Papa Johns 14 Inch The Works Pizza Original Crust
+Pizza Hut 12 Inch Cheese Pizza Hand-Tossed Crust
+Pizza Hut 12 Inch Cheese Pizza Pan Crust
+Pizza Hut 12 Inch Cheese Pizza Thin N Crispy Crust
+Pizza Hut 12 Inch Pepperoni Pizza Hand-Tossed Crust
+Pizza Hut 12 Inch Pepperoni Pizza Pan Crust
+Pizza Hut 12 Inch Super Supreme Pizza Hand-Tossed Crust
+Pizza Hut 14 Inch Cheese Pizza Hand-Tossed Crust
+Pizza Hut 14 Inch Cheese Pizza Pan Crust
+Pizza Hut 14 Inch Cheese Pizza Stuffed Crust
+Pizza Hut 14 Inch Cheese Pizza Thin N Crispy Crust
+Pizza Hut 14 Inch Pepperoni Pizza Hand-Tossed Crust
+Pizza Hut 14 Inch Pepperoni Pizza Pan Crust
+Pizza Hut 14 Inch Pepperoni Pizza Thin N Crispy Crust
+Pizza Hut 14 Inch Sausage Pizza Hand-Tossed Crust
+Pizza Hut 14 Inch Sausage Pizza Pan Crust
+Pizza Hut 14 Inch Sausage Pizza Thin N Crispy Crust
+Pizza Hut 14 Inch Super Supreme Pizza Hand-Tossed Crust
+Pizza With Meat Other Than Pepperoni From School Lunch Medium Crust
+Pizza With Pepperoni From School Lunch Medium Crust
+School Lunch Pizza Big Daddys Ls 16 Inch 51% Whole Grain Rolled Edge Cheese Pizza Frozen
+School Lunch Pizza Cheese Topping Thick Crust Whole Grain Frozen Cooked
+School Lunch Pizza Cheese Topping Thin Crust Whole Grain Frozen Cooked
+School Lunch Pizza Pepperoni Topping Thick Crust Whole Grain Frozen Cooked
+School Lunch Pizza Pepperoni Topping Thin Crust Whole Grain Frozen Cooked
+School Lunch Pizza Sausage Topping Thick Crust Whole Grain Frozen Cooked
+School Lunch Pizza Sausage Topping Thin Crust Whole Grain Frozen Cooked
+School Lunch Pizza Tonys Breakfast Pizza Sausage Frozen
+School Lunch Pizza Tonys Smartpizza Whole Grain 4x6 Cheese Pizza 50/50 Cheese Frozen
+School Lunch Pizza Tonys Smartpizza Whole Grain 4x6 Pepperoni Pizza 50/50 Cheese Frozen
+Kfc Coleslaw
+McDonalds Bacon Egg & Cheese Mcgriddles
+McDonalds Bacon Ranch Salad With Crispy Chicken
+McDonalds Bacon Ranch Salad With Grilled Chicken
+McDonalds Bacon Ranch Salad Without Chicken
+McDonalds Side Salad
+Coleslaw (Fast Food)
+Popeyes Coleslaw
+Taco Bell Taco Salad
+Arbys Roast Beef Sandwich Classic
+Burger King Croissanwich With Egg And Cheese
+Burger King Croissanwich With Sausage And Cheese
+Burger King Croissanwich With Sausage Egg And Cheese
+Burger King Original Chicken Sandwich
+Burger King Premium Fish Sandwich
+Chick-Fil-A Chicken Sandwich
+McDonalds Mcchicken Sandwich
+McDonalds Mcchicken Sandwich (Without Mayonnaise)
+McDonalds Sausage Mcmuffin
+McDonalds Sausage Mcmuffin With Egg
+Bacon Lettuce Tomato And Cheese Submarine Sandwich With Spread
+Buffalo Chicken Submarine Sandwich
+Buffalo Chicken Submarine Sandwich With Cheese
+Pepperoni And Salami Submarine Sandwich With Lettuce Tomato And Spread
+Roast Beef Submarine Sandwich With Cheese Lettuce Tomato And Spread
+Roast Beef Submarine Sandwich With Lettuce Tomato And Spread
+Steak And Cheese Submarine Sandwich With Fried Peppers And Onions On Roll
+Subway B.l.t. Sub On White Bread With Bacon Lettuce And Tomato
+Subway Black Forest Ham Sub On White Bread With Lettuce And Tomato
+Subway Cold Cut Sub On White Bread With Lettuce And Tomato
+Subway Meatball Marinara Sub On White Bread (No Toppings)
+Subway Oven Roasted Chicken Sub On White Bread With Lettuce And Tomato
+Subway Roast Beef Sub On White Bread With Lettuce And Tomato
+Subway Steak & Cheese Sub On White Bread With American Cheese Lettuce And Tomato
+Subway Subway Club Sub On White Bread With Lettuce And Tomato
+Subway Sweet Onion Chicken Teriyaki Sub On White Bread With Lettuce Tomato And Sweet Onion Sauce
+Subway Tuna Sub
+Subway Turkey Breast Sub On White Bread With Lettuce And Tomato
+Turkey And Bacon Submarine Sandwich With Cheese Lettuce Tomato And Spread
+Turkey And Bacon Submarine Sandwich With Lettuce Tomato And Spread
+Turkey Ham And Roast Beef Club Sandwich With Lettuce Tomato And Spread
+Vegetable Submarine Sandwich With Fat Free Spread
+Wendys Homestyle Chicken Fillet Sandwich
+Wendys Ultimate Chicken Grill Sandwich
+Sushi Nfs
+Sushi Roll Avocado
+Sushi Roll California
+Sushi Roll Eel
+Sushi Roll Salmon
+Sushi Roll Shrimp
+Sushi Roll Tuna
+Sushi Roll Vegetable
+Sushi Topped With Crab
+Sushi Topped With Eel
+Sushi Topped With Egg
+Sushi Topped With Salmon
+Sushi Topped With Shrimp
+Sushi Topped With Tuna
+Waffle Chocolate
+Waffle Chocolate From Fast Food / Restaurant
+Waffle Chocolate From Frozen
+Waffle Cinnamon
+Waffle Cornmeal
+Waffle Fruit
+Waffle Fruit From Fast Food / Restaurant
+Waffle Fruit From Frozen
+Waffle Plain
+Waffle Plain From Fast Food / Restaurant
+Waffle Plain Reduced Fat
+Waffle Plain Reduced Fat From Frozen
+Waffle Whole Grain
+Waffle Whole Grain From Fast Food / Restaurant
+Waffle Whole Grain From Frozen
+Waffle Whole Grain Fruit From Frozen
+Waffle Whole Grain Reduced Fat

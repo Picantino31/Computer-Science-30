@@ -1,0 +1,460 @@
+KFC
+McDonalds
+McDonalds
+McDonalds
+McDonalds
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Popeyes
+Burger King
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Pizza Hut
+School Lunch
+School Lunch
+McDonalds
+McDonalds
+McDonalds
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Burger King
+Burger King
+Burger King
+Burger King
+Burger King
+Burger King
+Burger King
+Burger King
+Burger King
+McDonalds
+McDonalds
+McDonalds
+McDonalds
+McDonalds
+McDonalds
+McDonalds
+McDonalds
+McDonalds
+McDonalds
+School Lunch
+School Lunch
+School Lunch
+School Lunch
+Wendys
+Wendys
+Wendys
+Wendys
+Wendys
+Wendys
+Wendys
+Wendys
+Wendys
+McDonalds
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Taco Bell
+Taco Bell
+Taco Bell
+Taco Bell
+Taco Bell
+Taco Bell
+Taco Bell
+Taco Bell
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Burger King
+Chick-Fil-A
+KFC
+KFC
+KFC
+KFC
+KFC
+KFC
+KFC
+KFC
+KFC
+KFC
+KFC
+KFC
+KFC
+KFC
+KFC
+KFC
+KFC
+KFC
+McDonalds
+Popeyes
+Popeyes
+Popeyes
+Popeyes
+Popeyes
+Popeyes
+Popeyes
+Popeyes
+Popeyes
+Popeyes
+School Lunch
+School Lunch
+Wendys
+Burger King
+McDonalds
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+School Lunch
+School Lunch
+School Lunch
+School Lunch
+Wendys
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+McDonalds
+McDonalds
+McDonalds
+McDonalds
+McDonalds
+McDonalds
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Wendys
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Taco Bell
+Taco Bell
+McDonalds
+McDonalds
+McDonalds
+McDonalds
+McDonalds
+McDonalds
+McDonalds
+McDonalds
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+McDonalds
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+School Lunch
+Digiorno
+Digiorno
+Digiorno
+Digiorno
+Digiorno
+Digiorno
+Digiorno
+Digiorno
+Dominos
+Dominos
+Dominos
+Dominos
+Dominos
+Dominos
+Dominos
+Dominos
+Dominos
+Dominos
+Little Caesars
+Little Caesars
+Little Caesars
+Little Caesars
+Little Caesars
+Little Caesars
+Papa Johns
+Papa Johns
+Papa Johns
+Papa Johns
+Pizza Hut
+Pizza Hut
+Pizza Hut
+Pizza Hut
+Pizza Hut
+Pizza Hut
+Pizza Hut
+Pizza Hut
+Pizza Hut
+Pizza Hut
+Pizza Hut
+Pizza Hut
+Pizza Hut
+Pizza Hut
+Pizza Hut
+Pizza Hut
+Pizza Hut
+School Lunch
+School Lunch
+School Lunch
+School Lunch
+School Lunch
+School Lunch
+School Lunch
+School Lunch
+School Lunch
+School Lunch
+School Lunch
+School Lunch
+KFC
+McDonalds
+McDonalds
+McDonalds
+McDonalds
+McDonalds
+Other
+Popeyes
+Taco Bell
+Arbys
+Burger King
+Burger King
+Burger King
+Burger King
+Burger King
+Chick-Fil-A
+McDonalds
+McDonalds
+McDonalds
+McDonalds
+Subway
+Subway
+Subway
+Subway
+Subway
+Subway
+Subway
+Subway
+Subway
+Subway
+Subway
+Subway
+Subway
+Subway
+Subway
+Subway
+Subway
+Subway
+Subway
+Subway
+Subway
+Subway
+Wendys
+Wendys
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
+Other
