@@ -56,10 +56,12 @@ public class As3_ParallelSort {
             }
             if (choice == 4) {
                 System.out.println("Enter the food you want to search by");
-                String search = input.nextLine().toLowerCase();
+                int search = input.nextInt();
+                input.nextLine();
+
                 for (int i = 0; i < allFood.length; i++) {
-                    if(allFood[i].toLowerCase().contains(search)){
-                        System.out.println(allFood[i] + " from " + '"' +  allFastFoodChain[i] + '"' + " with " + allCalories[i] + " calories and " + allProtein[i] + " protein." );
+                    if(Search(allProtein, search) == -1){
+                        System.out.println("not found");
                     }
                 }
             }
@@ -137,9 +139,15 @@ public class As3_ParallelSort {
                 allProtein[lowestIndex] = temp3;
 
             }
-
-
-
-
     }
+    public static int Search(int[] arr, int searchTerm){
+        for (int i = 0; i < allFood.length; i++) {
+            if(arr[i]  == searchTerm){
+                return i;
+            }
+        }
+    return  -1;
+    }
+
+
 }
