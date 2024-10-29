@@ -7,10 +7,8 @@ public class As3_ParallelSort {
 
     //  Loading Data
     public static String[] allFastFoodChain = MyFiles.loadStringArr("IntelliJ_DataSet/FastFoodStats/FastFood.txt");
-
     public static String[] allFood = MyFiles.loadStringArr("IntelliJ_DataSet/FastFoodStats/FoodName.txt");
     public static int[] allCalories = MyFiles.loadIntArr("IntelliJ_DataSet/FastFoodStats/Calories.txt");
-
     public static int[] allProtein = MyFiles.loadIntArr("IntelliJ_DataSet/FastFoodStats/Protein.txt");
 
 
@@ -40,7 +38,6 @@ public class As3_ParallelSort {
                 sortByCalories();
                 for (int i = 0; i < allFastFoodChain.length; i++) {
                     System.out.println(allCalories[i] + " calories is included in the " + allFood[i] + ": "+ '"' + allFastFoodChain[i] + '"' );
-
                 }
 
             }
@@ -55,14 +52,19 @@ public class As3_ParallelSort {
 
             }
             if (choice == 4) {
-                System.out.println("Enter the food you want to search by");
+                System.out.println("Enter the food you want to search by protein");
                 int search = input.nextInt();
                 input.nextLine();
+                int foundindex = Search(allProtein, search);
+                System.out.println(foundindex);
 
                 for (int i = 0; i < allFood.length; i++) {
-                    if(Search(allProtein, search) == -1){
+                    if(foundindex == -1){
                         System.out.println("not found");
                     }
+                    else{ System.out.println(allFood[foundindex] + " with " + allProtein[foundindex] + " protein");
+                    }
+
                 }
             }
             if(choice == 5){
@@ -141,7 +143,7 @@ public class As3_ParallelSort {
             }
     }
     public static int Search(int[] arr, int searchTerm){
-        for (int i = 0; i < allFood.length; i++) {
+        for (int i = 0; i < allProtein.length; i++) {
             if(arr[i]  == searchTerm){
                 return i;
             }

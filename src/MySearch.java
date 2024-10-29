@@ -16,12 +16,17 @@ public class MySearch {
                 end = mid - 1;
             }
         }
-
-
-
-
-
         return -1;
     }
 
-}
+    public static int LinearSearch ( String[] arr, String searchTerm){
+        for(int i = 0; i<arr.length; i++){
+            if(arr[i].equalsIgnoreCase( searchTerm )){
+                return i;
+            }
+        }
+        return -1;
+    }
+}//search
+
+
