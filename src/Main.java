@@ -5,8 +5,9 @@ public class Main {
 //        Ex2_Sort.run();
 //        Ex3_PrimeMinisters.run();
 //        As3_ParallelSort.run();
-        As4_BinarySearch.run();
+//        As4_BinarySearch.run();
 //        Exam_PC.run();
+          As5_Haiku.run();
 
     }
 
